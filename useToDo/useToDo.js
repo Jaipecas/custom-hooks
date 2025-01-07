@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import { toDoReducer } from "../08-useReducer/toDoReducer";
+import { toDoReducer } from "./toDoReducer";
 
 //es interesante sacar toda la logica de los componenetes a un customHook,
 //asi los componentes quedan limpios de codigo
